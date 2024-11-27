@@ -6,9 +6,7 @@ services:
         build: .
         container_name: quicktable
         command: >
-            bash -c "python manage.py makemigrations &&
-                     python manage.py migrate &&
-                     python manage.py runserver 0.0.0.0:8000"
+            bash -c "python manage.py runserver 0.0.0.0:8000"
         volumes:
             - .:/usr/src/app/
         ports:
@@ -25,7 +23,7 @@ services:
     # Celery Service
     celery:
         build: .
-        command: celery -A core worker -l INFO
+        command: celery -A quicktable worker -l INFO
         volumes:
             - .:/usr/src/app
         environment:
@@ -42,7 +40,7 @@ services:
         image: postgres
         container_name: pgdb
         environment:
-            - POSTGRES_DB=postgres
+            - POSTGRES_DB=book
             - POSTGRES_USER=postgres
             - POSTGRES_PASSWORD=postgres
         volumes:

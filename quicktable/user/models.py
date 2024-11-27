@@ -5,6 +5,9 @@ from common.models import BaseModel
 
 # Create your models here.
 
+__all__ = ['QTUser', 'UserInfo']
+
+
 class UserManager(BaseUserManager):
     def create_user(self, email, password, **extra_fields):
         
@@ -27,7 +30,7 @@ class UserManager(BaseUserManager):
         return super().get_by_natural_key(email)
     
 
-class User(AbstractBaseUser, PermissionsMixin, BaseModel):
+class QTUser(AbstractBaseUser, PermissionsMixin):
     email = models.EmailField(unique=True, max_length=45)
     is_active = models.BooleanField(default=False)
     is_staff = models.BooleanField(default=False)
@@ -35,13 +38,17 @@ class User(AbstractBaseUser, PermissionsMixin, BaseModel):
     REQUIRED_FIELDS = []
     USERNAME_FIELD = 'email'
     
+    objects = UserManager()
+    
     class Meta:
         db_table = 'qt_user'
         
 
 class UserInfo(BaseModel):
-    user = models.ForeignKey(User, related_name="user", on_delete=models.CASCADE)
+    user = models.ForeignKey('user.QTUser', related_name="+", on_delete=models.CASCADE)
     username = models.CharField(null=True, max_length=45)
+    first_name = models.CharField(null=True, max_length=45)
+    last_name = models.CharField(null=True, max_length=45)
     phone = models.CharField(null=True, max_length=10)
     address = models.CharField(null=True, max_length=45)
     

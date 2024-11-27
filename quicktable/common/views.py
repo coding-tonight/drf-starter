@@ -1,4 +1,5 @@
 import logging
+import re
 
 from rest_framework.response import Response
 from rest_framework import status
@@ -45,3 +46,14 @@ class ResponseHandleMixins:
         if isinstance(exe, APIException):
            return Response(exe.detail, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
        
+
+class FieldValidationMixins:    
+    @staticmethod
+    def is_email_valid(email: str) -> bool:
+        regex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,7}\b'
+        
+        if status := re.match(regex, email):
+            return status
+        return status
+        
+        

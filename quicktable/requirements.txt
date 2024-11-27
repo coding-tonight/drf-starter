@@ -5,3 +5,7 @@ sqlparse==0.5.2
 celery
 redis
 psycopg2-binary
+django-environ
+djangorestframework-simplejwt
+beautifulsoup4 
+selenium

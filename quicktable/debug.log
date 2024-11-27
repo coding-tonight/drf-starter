@@ -1,0 +1,142 @@
+2024-11-27 04:58:02,610 INFO "GET / HTTP/1.1" 200 12068 213 
+2024-11-27 05:14:16,624 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 05:14:16,864 INFO Watching for file changes with StatReloader 668 
+2024-11-27 05:16:01,475 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 05:16:01,690 INFO Watching for file changes with StatReloader 668 
+2024-11-27 05:16:15,891 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 05:16:16,118 INFO Watching for file changes with StatReloader 668 
+2024-11-27 05:16:25,293 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 05:16:25,527 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:28:11,527 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:28:39,791 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:28:40,009 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:28:42,148 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:28:42,369 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:28:43,506 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:28:43,727 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:28:44,864 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:28:45,086 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:29:38,138 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:03,657 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:03,883 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:13,055 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:13,286 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:14,422 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:14,655 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:15,791 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:16,020 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:39,257 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:39,491 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:41,632 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:41,861 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:43,001 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:43,227 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:47,378 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:47,594 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:31:58,777 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:31:59,011 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:32:43,868 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:37:26,614 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:38:10,942 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:38:11,173 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:38:19,793 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:38:41,118 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:38:50,291 INFO /usr/src/app/user/models.py changed, reloading. 266 
+2024-11-27 07:38:50,522 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:07,734 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:07,953 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:09,090 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:09,317 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:35,568 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:35,799 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:40,954 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:41,177 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:43,318 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:43,537 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:46,681 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:46,921 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:49,063 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:49,307 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:50,445 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:50,675 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:51,811 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:52,046 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:39:53,182 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:39:53,411 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:33,724 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:33,957 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:35,097 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:35,323 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:37,463 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:37,682 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:39,825 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:40,052 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:41,189 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:41,419 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:40:42,554 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:40:42,796 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:20,093 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:20,320 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:24,472 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:24,701 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:26,843 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:27,080 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:30,226 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:30,473 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:32,617 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:32,857 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:38,012 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:41:38,264 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:42,413 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 07:41:42,647 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:41:46,799 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 07:41:47,045 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:42:19,477 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 07:42:19,723 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:42:20,824 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 07:42:21,064 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:44:18,400 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:44:18,643 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:44:57,145 INFO /usr/src/app/user/models.py changed, reloading. 266 
+2024-11-27 07:44:57,384 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:45:11,624 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:45:11,861 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:45:41,263 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:45:41,494 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:45:44,618 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:45:44,861 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:45:51,021 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:45:51,265 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:04,493 INFO /usr/src/app/user/models.py changed, reloading. 266 
+2024-11-27 07:46:04,739 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:26,054 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:46:26,290 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:32,463 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:46:32,706 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:34,833 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:46:35,081 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:36,198 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:46:36,451 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:46:39,592 INFO /usr/src/app/common/models.py changed, reloading. 266 
+2024-11-27 07:46:39,848 INFO Watching for file changes with StatReloader 668 
+2024-11-27 07:48:56,408 INFO /usr/src/app/user/models.py changed, reloading. 266 
+2024-11-27 07:48:56,658 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:02:11,249 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:32:01,792 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:32:15,053 INFO "GET / HTTP/1.1" 200 12068 213 
+2024-11-27 08:32:15,099 WARNING Not Found: /favicon.ico 248 
+2024-11-27 08:32:15,099 WARNING "GET /favicon.ico HTTP/1.1" 404 2210 213 
+2024-11-27 08:33:52,129 INFO /usr/src/app/quicktable/urls.py changed, reloading. 266 
+2024-11-27 08:33:52,379 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:34:39,910 INFO /usr/src/app/quicktable/urls.py changed, reloading. 266 
+2024-11-27 08:34:40,152 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:35:08,033 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:41:52,479 INFO /usr/src/app/quicktable/urls.py changed, reloading. 266 
+2024-11-27 08:41:52,747 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:42:30,178 INFO /usr/src/app/user/urls.py changed, reloading. 266 
+2024-11-27 08:42:30,422 INFO Watching for file changes with StatReloader 668 
+2024-11-27 08:47:23,287 INFO Watching for file changes with StatReloader 668 
+2024-11-27 09:04:20,349 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 09:04:20,601 INFO Watching for file changes with StatReloader 668 
+2024-11-27 09:04:22,733 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
+2024-11-27 09:04:22,980 INFO Watching for file changes with StatReloader 668 

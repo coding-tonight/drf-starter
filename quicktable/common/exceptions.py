@@ -1,4 +1,4 @@
-from rest_framework.exceptions import APIException, ValidationError, NotFound
+from rest_framework.exceptions import ValidationError, NotFound , NotAuthenticated
 
 
 class FieldValidationError(ValidationError):
@@ -6,3 +6,4 @@ class FieldValidationError(ValidationError):
 
 class ShopNotFound(NotFound):
     pass
+

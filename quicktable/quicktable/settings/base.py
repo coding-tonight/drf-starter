@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=_&vuwi^82rgxfg9mlc-5zvk@#(^ke81#)vu)x)k7$g@v#b&wd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-AUTH_USER_MODEL = "user.User"
+AUTH_USER_MODEL = "user.QTUser"
 
 # Application definition
 
@@ -40,7 +40,8 @@ DEFAULT_APPS = [
 
 DJANGO_APPS = [
     'user',
-    'common'
+    'common',
+    'shop'
 ]
 
 MIDDLEWARE = [
