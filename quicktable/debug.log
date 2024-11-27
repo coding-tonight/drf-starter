@@ -1,9 +1,0 @@
-2024-11-27 04:58:02,610 INFO "GET / HTTP/1.1" 200 12068 213 
-2024-11-27 05:14:16,624 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
-2024-11-27 05:14:16,864 INFO Watching for file changes with StatReloader 668 
-2024-11-27 05:16:01,475 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
-2024-11-27 05:16:01,690 INFO Watching for file changes with StatReloader 668 
-2024-11-27 05:16:15,891 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
-2024-11-27 05:16:16,118 INFO Watching for file changes with StatReloader 668 
-2024-11-27 05:16:25,293 INFO /usr/src/app/quicktable/settings/base.py changed, reloading. 266 
-2024-11-27 05:16:25,527 INFO Watching for file changes with StatReloader 668 
